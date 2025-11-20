@@ -555,8 +555,8 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-172" value="rate保持不变" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="2440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-173" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="2580" width="120" height="60" as="geometry" />
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-173" value="超重费用=rate+超重费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2580" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
