@@ -35,7 +35,10 @@
           <mxGeometry x="620" y="385" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-27" value="显示mpg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="730" y="385" width="60" height="50" as="geometry" />
+          <mxGeometry x="720" y="385" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-28" value="显示mph" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
