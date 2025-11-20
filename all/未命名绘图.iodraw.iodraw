@@ -514,7 +514,7 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-158" value="超重重量=w-20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-159" value="w&amp;lt;=20?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-159" value="n==1？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1700" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
