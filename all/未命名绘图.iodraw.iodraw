@@ -534,7 +534,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-166" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-166" value="倍率m=1.5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
