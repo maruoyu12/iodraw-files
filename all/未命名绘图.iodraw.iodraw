@@ -546,11 +546,16 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-166" value="倍率m=1.5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-167" value="倍率m=1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-168" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;根据舱位c确定国内基础费率base: c=1 → 6 ,c=2 → 8 ,c=3 → 10&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1950" width="230" height="80" as="geometry" />
+          <mxGeometry x="855" y="1950" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-169" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;实际费率rate = base × m&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="2150" width="120" height="60" as="geometry" />
