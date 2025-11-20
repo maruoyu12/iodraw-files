@@ -176,7 +176,7 @@
           <mxGeometry x="430" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-60" value="输入信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-61" value="转换信号f7/f8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="780" width="120" height="60" as="geometry" />
@@ -217,7 +217,7 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-73" value="put f11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="900" y="990" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-74" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="780" as="sourcePoint" />
             <mxPoint x="390" y="730" as="targetPoint" />
