@@ -235,6 +235,12 @@
             <mxPoint x="690" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-65" target="FkwGp_OfXWwOsvmAlHAq-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="890" as="sourcePoint" />
+            <mxPoint x="130" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
