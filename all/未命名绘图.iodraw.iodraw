@@ -172,7 +172,7 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-58" value="显示里程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="780" y="385" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-59" value="主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
