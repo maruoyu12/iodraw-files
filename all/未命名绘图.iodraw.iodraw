@@ -19,7 +19,7 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-6" value="转换成rpm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-190" y="385" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-8" value="计算gph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
