@@ -605,10 +605,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-187" value="输出超重费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2690" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-188" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-172" target="FkwGp_OfXWwOsvmAlHAq-173">
           <mxGeometry relative="1" as="geometry">
