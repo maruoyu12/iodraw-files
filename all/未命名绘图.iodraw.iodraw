@@ -554,23 +554,14 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-166" value="倍率m=1.5" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="790" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-167">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="1950" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1080" y="1920" />
-              <mxPoint x="990" y="1920" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-167" value="倍率m=1" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-168" target="FkwGp_OfXWwOsvmAlHAq-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-168" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;根据舱位c确定国内基础费率base: c=1 → 6 ,c=2 → 8 ,c=3 → 10&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="855" y="1950" width="230" height="80" as="geometry" />
+          <mxGeometry x="855" y="1900" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-169" target="FkwGp_OfXWwOsvmAlHAq-170">
           <mxGeometry relative="1" as="geometry" />
