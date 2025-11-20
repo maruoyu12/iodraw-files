@@ -552,6 +552,10 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-167">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="1950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="1920" />
+              <mxPoint x="990" y="1920" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-167" value="倍率m=1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -593,11 +597,6 @@
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-171" value="rate=rate*0.5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="2380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-173">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="2580" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-172" value="rate保持不变" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="2380" width="120" height="60" as="geometry" />
