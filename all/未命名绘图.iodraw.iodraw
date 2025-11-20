@@ -61,8 +61,8 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-37" value="加速/减速显示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-38" value="确定加速/减速" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="60" height="50" as="geometry" />
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-38" value="发光二极管显示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="780" y="490" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
