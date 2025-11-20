@@ -55,8 +55,8 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-34" value="读燃料流量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="500" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-35" value="读旋转信号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="150" y="520" width="60" height="50" as="geometry" />
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-35" value="确定加速/减速" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
