@@ -31,8 +31,8 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-23" value="计算mph" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="390" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-24" value="计算gph" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="60" height="50" as="geometry" />
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-24" value="计算mpg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="270" y="395" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
