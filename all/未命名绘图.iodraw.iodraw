@@ -566,6 +566,17 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-169" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;实际费率rate = base × m&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-170" target="FkwGp_OfXWwOsvmAlHAq-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-183" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FkwGp_OfXWwOsvmAlHAq-181">
+          <mxGeometry x="-0.3006" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-170" target="FkwGp_OfXWwOsvmAlHAq-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-170" value="d==1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="2260" width="80" height="80" as="geometry" />
         </mxCell>
