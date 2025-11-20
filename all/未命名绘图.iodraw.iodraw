@@ -64,10 +64,16 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-38" value="发光二极管显示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="780" y="490" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="FkwGp_OfXWwOsvmAlHAq-4">
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-1" target="FkwGp_OfXWwOsvmAlHAq-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="260" as="sourcePoint" />
             <mxPoint x="500" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.808;entryY=1.056;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="FkwGp_OfXWwOsvmAlHAq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="430" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
