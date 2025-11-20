@@ -17,19 +17,10 @@
           <mxGeometry x="560" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-6" value="转换成rpm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="385" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-8" value="计算gph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-9" value="计算mph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="385" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="390" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="385" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
