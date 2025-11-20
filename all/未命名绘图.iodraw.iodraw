@@ -514,6 +514,9 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-156" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;输入：重量w(kg)、舱位c(1头等/2公务/3经济、国籍n(0国内/1外国)、是否残疾d(0否/1是)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="527" y="1260" width="480" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-157" target="FkwGp_OfXWwOsvmAlHAq-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-157" value="w&amp;lt;=20?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="1420" width="80" height="80" as="geometry" />
         </mxCell>
@@ -615,6 +618,9 @@
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-173" value="超重费用=rate+超重费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="2490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-194" target="FkwGp_OfXWwOsvmAlHAq-187">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-194" value="超重费用为0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="2400" width="120" height="60" as="geometry" />
