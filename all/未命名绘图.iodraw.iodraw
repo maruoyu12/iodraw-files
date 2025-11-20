@@ -549,7 +549,7 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-170" value="d==1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="2260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FkwGp_OfXWwOsvmAlHAq-171" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-171" value="rate=rate*0.5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="2440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
