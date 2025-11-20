@@ -572,6 +572,9 @@
         <mxCell id="FkwGp_OfXWwOsvmAlHAq-173" value="超重费用=rate+超重费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="2580" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FkwGp_OfXWwOsvmAlHAq-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.43;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FkwGp_OfXWwOsvmAlHAq-168" target="FkwGp_OfXWwOsvmAlHAq-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
