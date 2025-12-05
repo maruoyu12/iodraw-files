@@ -133,8 +133,11 @@
             <mxPoint x="16" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-329" y="622" width="40" height="26" as="geometry" />
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-45" value="标准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="622" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-248" y="763" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
