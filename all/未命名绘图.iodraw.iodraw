@@ -166,13 +166,13 @@
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-56" value="工资调整系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-184" y="916" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-66" value="恢复原工资档案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-376" y="1058" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-67" value="调整工资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-108" y="1058" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-68" value="打印工资表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112" y="1058" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7Myn-e9AQa3Vjg48y4k-66" target="G7Myn-e9AQa3Vjg48y4k-56">
@@ -193,22 +193,22 @@
             <mxPoint x="-114" y="986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-73" value="输入工资档案" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-397" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-74" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-74" value="输入调整工资标准" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-296" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-75" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-75" value="检索" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-158" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-76" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="118" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-77" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-77" value="更新新工资数据" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="33" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-78" value="验证" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-62" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-79" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.463;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G7Myn-e9AQa3Vjg48y4k-73" target="G7Myn-e9AQa3Vjg48y4k-66">
