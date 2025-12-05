@@ -35,7 +35,10 @@
           <mxGeometry x="-256" y="276" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-11" value="调整后的工资档案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="216" width="114" height="26" as="geometry" />
+          <mxGeometry x="-114" y="213" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="273" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
