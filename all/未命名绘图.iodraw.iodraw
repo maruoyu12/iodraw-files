@@ -139,8 +139,14 @@
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-46" value="标准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-249" y="763" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-136" y="780" width="40" height="26" as="geometry" />
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-47" value="标准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-137" y="780" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-48" value="标准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="769" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="487" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
