@@ -283,7 +283,7 @@
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-94" value="输入调整工资标准" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-314" y="1549" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-95" value="检索" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-95" value="按工资多少排序" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-176" y="1549" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-96" value="计算新工资" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
