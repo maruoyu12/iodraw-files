@@ -11,7 +11,10 @@
           <mxGeometry x="-390" y="277" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-1" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp; 教师档案" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="-162" y="169" width="100" height="30" as="geometry" />
+          <mxGeometry x="-162" y="154" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7Myn-e9AQa3Vjg48y4k-2" target="G7Myn-e9AQa3Vjg48y4k-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-2" value="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-162" y="262" width="100" height="70" as="geometry" />
