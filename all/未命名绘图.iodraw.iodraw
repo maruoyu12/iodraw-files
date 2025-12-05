@@ -154,8 +154,11 @@
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-51" value="调整后的工资档案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-71" y="532" width="114" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-28" y="618" width="40" height="26" as="geometry" />
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-52" value="验证信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-41" y="618" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-159" y="624" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
