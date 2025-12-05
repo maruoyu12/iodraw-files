@@ -46,6 +46,9 @@
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-13" value="行政办公室" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-385" y="550" width="112" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G7Myn-e9AQa3Vjg48y4k-14" target="G7Myn-e9AQa3Vjg48y4k-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-14" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp; 教师档案" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="-174" y="561" width="100" height="30" as="geometry" />
         </mxCell>
@@ -111,6 +114,9 @@
             <mxPoint x="-247" y="787" as="sourcePoint" />
             <mxPoint x="-197" y="737" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.505;entryY=0.878;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G7Myn-e9AQa3Vjg48y4k-22" target="G7Myn-e9AQa3Vjg48y4k-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
