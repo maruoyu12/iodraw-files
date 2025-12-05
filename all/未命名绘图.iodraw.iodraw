@@ -202,7 +202,7 @@
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-75" value="检索" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-158" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G7Myn-e9AQa3Vjg48y4k-76" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-76" value="计算新工资" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="118" y="1170" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-77" value="更新新工资数据" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
