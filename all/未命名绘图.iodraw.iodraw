@@ -40,6 +40,9 @@
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-12" value="新工资清单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-49" y="273" width="78" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="G7Myn-e9AQa3Vjg48y4k-13" value="行政办公室" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="287" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
