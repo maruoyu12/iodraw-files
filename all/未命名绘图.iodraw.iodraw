@@ -391,8 +391,14 @@
         <mxCell id="8i6lcwLoD9JigZqUlh1N-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;direction=north;" vertex="1" parent="8i6lcwLoD9JigZqUlh1N-25">
           <mxGeometry x="331" width="99" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="8i6lcwLoD9JigZqUlh1N-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8i6lcwLoD9JigZqUlh1N-25">
-          <mxGeometry x="390" y="39" width="40" height="26" as="geometry" />
+        <mxCell id="8i6lcwLoD9JigZqUlh1N-29" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8i6lcwLoD9JigZqUlh1N-25">
+          <mxGeometry x="398" y="39" width="25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8i6lcwLoD9JigZqUlh1N-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="8i6lcwLoD9JigZqUlh1N-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="124" as="sourcePoint" />
+            <mxPoint x="207" y="74" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
