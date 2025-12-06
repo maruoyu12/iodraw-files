@@ -331,8 +331,14 @@
             <mxPoint x="-56" y="1507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8i6lcwLoD9JigZqUlh1N-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8i6lcwLoD9JigZqUlh1N-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="2161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8i6lcwLoD9JigZqUlh1N-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-511" y="2275" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8i6lcwLoD9JigZqUlh1N-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="2397" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
