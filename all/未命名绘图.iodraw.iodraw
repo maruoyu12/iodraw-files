@@ -161,7 +161,7 @@
           <mxGeometry x="-184" y="624" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-54" value="调整后的工资档案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="323" y="503" width="114" height="26" as="geometry" />
+          <mxGeometry x="252" y="582" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="G7Myn-e9AQa3Vjg48y4k-56" value="工资调整系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-184" y="916" width="120" height="60" as="geometry" />
