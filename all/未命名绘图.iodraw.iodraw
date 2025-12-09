@@ -424,9 +424,6 @@
         <mxCell id="gRYZvDdC2AlfSpafzKYV-43" value="汇聚交换机" style="shape=rectangle;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;bold=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="457" y="43" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gRYZvDdC2AlfSpafzKYV-44" value="接入交换机" style="shape=triangle;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;bold=1;rotation=180;align=center;" vertex="1" parent="1">
-          <mxGeometry x="577" y="43" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="gRYZvDdC2AlfSpafzKYV-45" value="接入交换机" style="shape=mxgraph.network.switch;fillColor=#ffffff;strokeColor=#000000;fontSize=12;bold=1;shape=image;image=https://cdn-icons-png.flaticon.com/512/1827/1827784.png;imageAspect=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="697" y="43" width="60" height="60" as="geometry" />
         </mxCell>
@@ -481,8 +478,10 @@
         <mxCell id="gRYZvDdC2AlfSpafzKYV-62" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;strokeWidth=1;endArrow=block;align=center;" edge="1" parent="1" source="gRYZvDdC2AlfSpafzKYV-41" target="gRYZvDdC2AlfSpafzKYV-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gRYZvDdC2AlfSpafzKYV-63" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;strokeWidth=1;endArrow=block;align=center;" edge="1" parent="1" source="gRYZvDdC2AlfSpafzKYV-41" target="gRYZvDdC2AlfSpafzKYV-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gRYZvDdC2AlfSpafzKYV-63" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;strokeWidth=1;endArrow=block;align=center;" edge="1" parent="1" source="gRYZvDdC2AlfSpafzKYV-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="607" y="103" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gRYZvDdC2AlfSpafzKYV-64" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;strokeWidth=1;endArrow=block;align=center;" edge="1" parent="1" source="gRYZvDdC2AlfSpafzKYV-41" target="gRYZvDdC2AlfSpafzKYV-45">
           <mxGeometry relative="1" as="geometry" />
