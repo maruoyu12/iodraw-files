@@ -424,7 +424,7 @@
         <mxCell id="gRYZvDdC2AlfSpafzKYV-43" value="汇聚交换机" style="shape=rectangle;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;bold=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="457" y="43" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gRYZvDdC2AlfSpafzKYV-44" value="接入交换机" style="shape=triangle;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;bold=1;rotation=180;align=center;verticalAlign=middle;direction=west;" vertex="1" parent="1">
+        <mxCell id="gRYZvDdC2AlfSpafzKYV-44" value="" style="shape=triangle;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=12;bold=1;rotation=180;align=center;verticalAlign=middle;direction=east;" vertex="1" parent="1">
           <mxGeometry x="577" y="43" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRYZvDdC2AlfSpafzKYV-45" value="接入交换机" style="shape=mxgraph.network.switch;fillColor=#ffffff;strokeColor=#000000;fontSize=12;bold=1;shape=image;image=https://cdn-icons-png.flaticon.com/512/1827/1827784.png;imageAspect=0;align=center;" vertex="1" parent="1">
