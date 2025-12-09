@@ -537,8 +537,8 @@
         <mxCell id="gRYZvDdC2AlfSpafzKYV-81" value="接入交换机" style="triangle;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="561" y="37" width="77" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="gRYZvDdC2AlfSpafzKYV-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="644" y="195" width="40" height="26" as="geometry" />
+        <mxCell id="gRYZvDdC2AlfSpafzKYV-82" value="服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="638" y="180" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
