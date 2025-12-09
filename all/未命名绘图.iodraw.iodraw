@@ -433,8 +433,8 @@
         <mxCell id="gRYZvDdC2AlfSpafzKYV-47" value="服务器" style="shape=mxgraph.network.server;fillColor=#ffffff;strokeColor=#000000;fontSize=12;bold=1;shape=image;image=https://cdn-icons-png.flaticon.com/512/919/919858.png;imageAspect=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="337" y="143" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gRYZvDdC2AlfSpafzKYV-48" value="服务器" style="shape=mxgraph.network.server;fillColor=#ffffff;strokeColor=#000000;fontSize=12;bold=1;shape=image;image=https://cdn-icons-png.flaticon.com/512/253/253227.png;imageAspect=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="577" y="143" width="80" height="50" as="geometry" />
+        <mxCell id="gRYZvDdC2AlfSpafzKYV-48" value="" style="shape=mxgraph.network.server;fillColor=#ffffff;strokeColor=#000000;fontSize=12;bold=1;shape=image;image=https://cdn-icons-png.flaticon.com/512/253/253227.png;imageAspect=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="605" y="134" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gRYZvDdC2AlfSpafzKYV-49" value="工作站" style="shape=mxgraph.network.pc;fillColor=#ffffff;strokeColor=#000000;fontSize=12;bold=1;shape=image;image=https://cdn-icons-png.flaticon.com/512/1055/1055684.png;imageAspect=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="817" y="143" width="60" height="50" as="geometry" />
@@ -536,6 +536,9 @@
         </mxCell>
         <mxCell id="gRYZvDdC2AlfSpafzKYV-81" value="接入交换机" style="triangle;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="561" y="37" width="77" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="gRYZvDdC2AlfSpafzKYV-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="644" y="195" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
