@@ -415,6 +415,9 @@
         <mxCell id="8i6lcwLoD9JigZqUlh1N-37" value="q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-169" y="2653" width="26" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bjo2x5VkHnSTEPAU4-7S-76" target="bjo2x5VkHnSTEPAU4-7S-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bjo2x5VkHnSTEPAU4-7S-76" value="&lt;b&gt;校本部核心层&lt;/b&gt;&lt;br&gt;核心路由器 R-core (2811)&lt;br&gt;Serial0/0/0: 10.0.0.1/30（至朝阳）&lt;br&gt;Serial0/0/1: 10.0.0.5/30（至海淀）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f7ff;strokeColor=#1890ff;" vertex="1" parent="1">
           <mxGeometry x="210" y="60" width="220" height="100" as="geometry" />
         </mxCell>
