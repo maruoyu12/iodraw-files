@@ -415,6 +415,117 @@
         <mxCell id="8i6lcwLoD9JigZqUlh1N-37" value="q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-169" y="2653" width="26" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-1" value="&lt;b&gt;校本部核心层&lt;/b&gt;&lt;br&gt;核心路由器 R-core (2811)&lt;br&gt;Serial0/0/0: 10.0.0.1/30（至朝阳）&lt;br&gt;Serial0/0/1: 10.0.0.5/30（至海淀）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f7ff;strokeColor=#1890ff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-2" value="三层交换机 SW-core (3560)&lt;br&gt;VLAN10: 192.168.10.1/24&lt;br&gt;VLAN20: 192.168.20.1/24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8fb;strokeColor=#1890ff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-3" value="接入交换机 SW-access1&lt;br&gt;VLAN10/20 端口划分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5fafe;strokeColor=#1890ff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-4" value="PC1 (VLAN10)&lt;br&gt;192.168.10.10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7e6;strokeColor=#fa8c16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-5" value="PC2 (VLAN20)&lt;br&gt;192.168.20.10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7e6;strokeColor=#fa8c16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-6" value="&lt;b&gt;朝阳校区汇聚层&lt;/b&gt;&lt;br&gt;汇聚路由器 R-chao (2811)&lt;br&gt;Serial0/0/0: 10.0.0.2/30&lt;br&gt;VLAN10:192.168.110.1/24&lt;br&gt;VLAN20:192.168.120.1/24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f7ff;strokeColor=#1890ff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-7" value="接入交换机 SW-access3&lt;br&gt;VLAN10/20 端口划分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5fafe;strokeColor=#1890ff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-8" value="PC3 (VLAN10)&lt;br&gt;192.168.110.10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7e6;strokeColor=#fa8c16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-9" value="PC4 (VLAN20)&lt;br&gt;192.168.120.10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7e6;strokeColor=#fa8c16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-10" value="&lt;b&gt;海淀校区汇聚层&lt;/b&gt;&lt;br&gt;三层交换机 SW-hai (3560)&lt;br&gt;Serial0/0/1: 10.0.0.6/30&lt;br&gt;VLAN10:192.168.210.1/24&lt;br&gt;VLAN20:192.168.220.1/24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f7ff;strokeColor=#1890ff;" vertex="1" parent="1">
+          <mxGeometry x="900" y="100" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-11" value="接入交换机 SW-access4&lt;br&gt;VLAN10/20 端口划分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5fafe;strokeColor=#1890ff;" vertex="1" parent="1">
+          <mxGeometry x="900" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-12" value="PC5 (VLAN10)&lt;br&gt;192.168.210.10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7e6;strokeColor=#fa8c16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-13" value="PC6 (VLAN20)&lt;br&gt;192.168.220.10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7e6;strokeColor=#fa8c16;" vertex="1" parent="1">
+          <mxGeometry x="980" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-14" value="Serial链路（专线）" style="endArrow=block;html=1;strokeColor=#722ed1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="100" as="source" />
+            <mxPoint x="550" y="100" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-15" value="Serial链路（专线）" style="endArrow=block;html=1;strokeColor=#722ed1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="70" as="source" />
+            <mxPoint x="900" y="100" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-16" value="Trunk链路" style="endArrow=block;html=1;strokeColor=#52c41a;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="source" />
+            <mxPoint x="310" y="290" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-17" value="Trunk链路" style="endArrow=block;html=1;strokeColor=#52c41a;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="200" as="source" />
+            <mxPoint x="640" y="230" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-18" value="Trunk链路" style="endArrow=block;html=1;strokeColor=#52c41a;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="200" as="source" />
+            <mxPoint x="990" y="230" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-19" value="" style="endArrow=block;html=1;strokeColor=#fa8c16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="350" as="source" />
+            <mxPoint x="200" y="380" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-20" value="" style="endArrow=block;html=1;strokeColor=#fa8c16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="350" as="source" />
+            <mxPoint x="330" y="380" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-21" value="" style="endArrow=block;html=1;strokeColor=#fa8c16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="290" as="source" />
+            <mxPoint x="550" y="320" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-22" value="" style="endArrow=block;html=1;strokeColor=#fa8c16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="290" as="source" />
+            <mxPoint x="680" y="320" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-23" value="" style="endArrow=block;html=1;strokeColor=#fa8c16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="290" as="source" />
+            <mxPoint x="900" y="320" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-24" value="" style="endArrow=block;html=1;strokeColor=#fa8c16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="290" as="source" />
+            <mxPoint x="1030" y="320" as="target" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bjo2x5VkHnSTEPAU4-7S-25" value="Trunk链路" style="endArrow=block;html=1;strokeColor=#52c41a;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="120" as="source" />
+            <mxPoint x="310" y="180" as="target" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
