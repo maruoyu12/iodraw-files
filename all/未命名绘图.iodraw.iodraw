@@ -704,7 +704,7 @@
           <mxGeometry x="189" y="528" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-355" value="进入系统主界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#4caf50" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-356" value="结束程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336" vertex="1" parent="1">
           <mxGeometry x="322.33" y="348" width="120" height="60" as="geometry" />
