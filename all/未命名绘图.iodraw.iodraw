@@ -301,8 +301,10 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-157" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-126" target="zhE98eEz4ox2AED2cr9r-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-160" value="中止/取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-134" target="zhE98eEz4ox2AED2cr9r-136">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-160" value="中止/取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="647" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-162" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-136" target="zhE98eEz4ox2AED2cr9r-133">
           <mxGeometry relative="1" as="geometry" />
