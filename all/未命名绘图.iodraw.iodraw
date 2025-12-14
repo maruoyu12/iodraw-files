@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1nON8vbqu-48xYjgHssh">
-    <mxGraphModel dx="2179" dy="2376" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1836" dy="2376" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,34 +361,34 @@
             <mxPoint x="278" y="-943" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-204" value="闲置状态&#xa;do/等待复印命令" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;strokeColor=#2196f3" vertex="1" parent="1">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-204" value="闲置状态&#xa;do/等待复印命令" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;strokeColor=#2196f3;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-205" value="复印状态&#xa;do/执行复印命令" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#4caf50" vertex="1" parent="1">
-          <mxGeometry x="420" y="220" width="140" height="60" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-205" value="复印状态&#xa;do/执行复印命令" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#4caf50;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-21" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-206" value="缺纸状态&#xa;do/发出缺纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800" vertex="1" parent="1">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-206" value="缺纸状态&#xa;do/发出缺纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="370" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-207" value="卡纸状态&#xa;do/发出卡纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336" vertex="1" parent="1">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-207" value="卡纸状态&#xa;do/发出卡纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-208" value="接到复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-204" target="zhE98eEz4ox2AED2cr9r-205">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-208" value="接到复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-204" target="zhE98eEz4ox2AED2cr9r-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-209" value="完成复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-204">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-209" value="完成复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-210" value="复印时无纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-206">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-210" value="复印时无纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-206">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-211" value="复印时卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-207">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-211" value="复印时卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-207">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-212" value="装满纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-206" target="zhE98eEz4ox2AED2cr9r-204">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-212" value="装满纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-206" target="zhE98eEz4ox2AED2cr9r-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-213" value="排除卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-207" target="zhE98eEz4ox2AED2cr9r-204">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-213" value="排除卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-207" target="zhE98eEz4ox2AED2cr9r-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
