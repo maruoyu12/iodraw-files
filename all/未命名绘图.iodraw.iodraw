@@ -510,6 +510,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-318" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-5" y="904" />
+              <mxPoint x="-5" y="904" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-281" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="301" width="10" height="776" as="geometry" />
         </mxCell>
@@ -548,6 +556,9 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-317" value="请求拿走现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-45" y="815" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-319" value="请求继续此事" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="879" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
