@@ -459,7 +459,7 @@
             <mxPoint x="6" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-295">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-280" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
@@ -484,7 +484,7 @@
           <mxGeometry x="-57" y="463" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-295" value="输入取款额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-57" y="688" width="78" height="26" as="geometry" />
+          <mxGeometry x="-57" y="701" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-297" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-49" y="794" width="42" height="26" as="geometry" />
