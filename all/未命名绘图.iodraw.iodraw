@@ -191,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-122" value="中断&#xa;do/显示取消信息" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f0f8ff;align=center;" vertex="1" parent="1">
-          <mxGeometry x="726" y="68" width="140" height="60" as="geometry" />
+          <mxGeometry x="735" y="68" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-123" value="等待网络响应" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
           <mxGeometry x="465" y="78" width="120" height="40" as="geometry" />
@@ -272,9 +272,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-148" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-128" target="zhE98eEz4ox2AED2cr9r-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-149" value="等待5秒钟" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-128" target="zhE98eEz4ox2AED2cr9r-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-150" value="输入金额" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-129" target="zhE98eEz4ox2AED2cr9r-130">
