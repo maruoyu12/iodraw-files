@@ -572,6 +572,14 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-330" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-282" target="zhE98eEz4ox2AED2cr9r-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-334" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-282" target="zhE98eEz4ox2AED2cr9r-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="435" />
+              <mxPoint x="232" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-282" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="301" width="3" height="776" as="geometry" />
         </mxCell>
@@ -631,6 +639,9 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-333" value="事务成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="664" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-335" value="请求分行验证账户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="129" y="380" width="114" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
