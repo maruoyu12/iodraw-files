@@ -456,7 +456,7 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-298" value="拿走卡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zhE98eEz4ox2AED2cr9r-290">
           <mxGeometry x="-0.2002" y="8" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
@@ -487,7 +487,7 @@
           <mxGeometry x="-95" y="663" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-297" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="791" width="42" height="26" as="geometry" />
+          <mxGeometry x="-72" y="789" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
