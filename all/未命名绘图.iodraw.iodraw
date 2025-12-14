@@ -152,10 +152,10 @@
           <mxGeometry x="550" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-45" value="状态名称:处理事务" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
-          <mxGeometry x="380" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="544" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-46" value="状态名称:不可读的卡" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="156" y="522" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-47" value="状态名称:打印账单" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
           <mxGeometry x="550" y="620" width="120" height="40" as="geometry" />
