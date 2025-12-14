@@ -415,14 +415,14 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="12" y="591" />
-              <mxPoint x="12" y="591" />
+              <mxPoint x="12" y="569" />
+              <mxPoint x="12" y="569" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-294" value="输入类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zhE98eEz4ox2AED2cr9r-287">
           <mxGeometry x="-0.2002" y="11" relative="1" as="geometry">
-            <mxPoint x="12" y="-1" as="offset" />
+            <mxPoint x="13" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
@@ -514,7 +514,7 @@
           <mxGeometry x="-29" y="412" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-309" value="要求事物类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="509" width="90" height="26" as="geometry" />
+          <mxGeometry x="-45" y="515" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
