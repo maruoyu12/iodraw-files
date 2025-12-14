@@ -362,13 +362,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-204" value="闲置状态&#xa;do/等待复印命令" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;strokeColor=#2196f3;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="220" width="140" height="60" as="geometry" />
+          <mxGeometry x="32" y="-21" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-205" value="复印状态&#xa;do/执行复印命令" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#4caf50;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="-21" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-206" value="缺纸状态&#xa;do/发出缺纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="370" width="140" height="60" as="geometry" />
+          <mxGeometry x="230" y="219" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-207" value="卡纸状态&#xa;do/发出卡纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="140" height="60" as="geometry" />
