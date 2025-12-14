@@ -679,8 +679,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-343" value="储户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-77.5" y="275" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-347" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="36" y="262" width="40" height="26" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-347" value="ATM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37" y="275" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
