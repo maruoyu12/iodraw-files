@@ -486,8 +486,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-310" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-310" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="52" y="693" as="sourcePoint" />
+            <mxPoint x="-56" y="693" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-281" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="301" width="10" height="776" as="geometry" />
@@ -520,7 +523,7 @@
           <mxGeometry x="-45" y="515" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-311" value="要求输入取款额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-68" y="658" width="102" height="26" as="geometry" />
+          <mxGeometry x="-54" y="661" width="102" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
