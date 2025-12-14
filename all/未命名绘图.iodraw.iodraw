@@ -502,6 +502,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-316" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-18" y="844" />
+              <mxPoint x="-18" y="844" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-281" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="301" width="10" height="776" as="geometry" />
         </mxCell>
@@ -536,7 +544,7 @@
           <mxGeometry x="-51" y="580" width="102" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-315" value="吐出现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="757" width="66" height="26" as="geometry" />
+          <mxGeometry x="-33" y="759" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
