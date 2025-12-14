@@ -407,8 +407,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-285" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2" y="492" />
-              <mxPoint x="-2" y="492" />
+              <mxPoint x="1" y="475" />
+              <mxPoint x="1" y="475" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -478,6 +478,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-308" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4" y="545" />
+              <mxPoint x="4" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-281" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="301" width="10" height="776" as="geometry" />
         </mxCell>
@@ -504,6 +512,9 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-307" value="要求密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-29" y="412" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-309" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="509" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
