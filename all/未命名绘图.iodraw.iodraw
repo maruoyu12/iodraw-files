@@ -109,6 +109,135 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-30" value="继续" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-79" value="中断&#xa;do/显示取消信息" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-80" value="等待网络响应" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-81" value="主屏&#xa;do/显示主屏幕" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-82" value="do/要求密码" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-83" value="不可读的卡&#xa;do/显示不可读卡信息" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-84" value="do/验证账户" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-85" value="do/要求类型" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-86" value="do/要求金额" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-87" value="do/处理事务" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-88" value="do/失败信息" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-89" value="do/吐出现金；&#xa;请求拿走现金" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-90" value="退卡&#xa;do/退卡；&#xa;请求拿走卡" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-91" value="结束&#xa;do/打印账单" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-92" value="do/请求继续" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-93" value="取消&#xa;do/显示取消信息" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-94" value="do/显示无效账户信息" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-95" value="网络响应" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-96" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-97" value="插卡[可读的]" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-98" value="插卡[不可读的]" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-99" value="输入密码" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-100" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-101" value="账户有效" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-102" value="无效账户" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-103" value="密码错" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-104" value="输入类型" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-105" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-106" value="等待5秒钟" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-107" value="输入金额" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-108" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-109" value="事务成功" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-110" value="事务失败" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-111" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-112" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-113" value="拿走现金" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-114" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-115" value="拿走卡" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-116" value="继续" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-117" value="中止/取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-118" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-119" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-120" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-121" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
