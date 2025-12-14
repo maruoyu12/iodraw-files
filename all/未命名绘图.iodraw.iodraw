@@ -692,13 +692,13 @@
           <mxGeometry x="200" y="200" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-351" value="输入个人信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f4f8;strokeColor=#2196f3" vertex="1" parent="1">
-          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="67" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-352" value="提交用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5" vertex="1" parent="1">
-          <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="148" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-353" value="查询数据库用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5" vertex="1" parent="1">
-          <mxGeometry x="150" y="450" width="140" height="60" as="geometry" />
+          <mxGeometry x="137" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-354" value="比较并验证用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5" vertex="1" parent="1">
           <mxGeometry x="150" y="550" width="140" height="60" as="geometry" />
