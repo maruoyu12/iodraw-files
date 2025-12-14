@@ -112,11 +112,6 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-31" value="" style="shape=ellipse;fillColor=#000000;strokeColor=none;size=10" vertex="1" parent="1">
           <mxGeometry x="100" y="50" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="827.0000610351562" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-32" value="" style="shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="850" y="50" width="20" height="20" as="geometry" />
         </mxCell>
@@ -148,7 +143,7 @@
           <mxGeometry x="614" y="216" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-42" value="退卡" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="339" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-43" value="状态名称:等待网络响应" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
           <mxGeometry x="380" y="420" width="120" height="40" as="geometry" />
