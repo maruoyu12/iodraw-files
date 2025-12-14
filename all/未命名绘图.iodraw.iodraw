@@ -206,7 +206,7 @@
           <mxGeometry x="290" y="312" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-127" value="do/验证账户" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
-          <mxGeometry x="679" y="169" width="120" height="40" as="geometry" />
+          <mxGeometry x="719" y="169" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-128" value="do/要求类型" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="120" height="40" as="geometry" />
@@ -265,7 +265,7 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-145" value="无效账户" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-127" target="zhE98eEz4ox2AED2cr9r-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-146" value="密码错" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-127" target="zhE98eEz4ox2AED2cr9r-125">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-146" value="密码错" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.061;exitY=0.792;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-127" target="zhE98eEz4ox2AED2cr9r-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-147" value="输入类型" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-128" target="zhE98eEz4ox2AED2cr9r-129">
