@@ -361,34 +361,34 @@
             <mxPoint x="270" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-183" value="闲置状态&#xa;do/等待复印命令" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;strokeColor=#2196f3" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="140" height="60" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-194" value="闲置状态&#xa;do/等待复印命令" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;strokeColor=#2196f3" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-184" value="复印状态&#xa;do/执行复印命令" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#4caf50" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="140" height="60" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-195" value="复印状态&#xa;do/执行复印命令" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#4caf50" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-185" value="缺纸状态&#xa;do/发出缺纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="140" height="60" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-196" value="缺纸状态&#xa;do/发出缺纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-186" value="卡纸状态&#xa;do/发出卡纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="140" height="60" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-197" value="卡纸状态&#xa;do/发出卡纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-187" value="接到复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-183" target="zhE98eEz4ox2AED2cr9r-184">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-198" value="接到复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-194" target="zhE98eEz4ox2AED2cr9r-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-188" value="完成复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-184" target="zhE98eEz4ox2AED2cr9r-183">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-199" value="完成复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-195" target="zhE98eEz4ox2AED2cr9r-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-189" value="复印时无纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-184" target="zhE98eEz4ox2AED2cr9r-185">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-200" value="复印时无纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-195" target="zhE98eEz4ox2AED2cr9r-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-190" value="复印时卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-184" target="zhE98eEz4ox2AED2cr9r-186">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-201" value="复印时卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-195" target="zhE98eEz4ox2AED2cr9r-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-191" value="装满纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-185" target="zhE98eEz4ox2AED2cr9r-183">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-202" value="装满纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-196" target="zhE98eEz4ox2AED2cr9r-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-192" value="排除卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-186" target="zhE98eEz4ox2AED2cr9r-183">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-203" value="排除卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-197" target="zhE98eEz4ox2AED2cr9r-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
