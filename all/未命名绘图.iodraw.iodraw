@@ -122,13 +122,13 @@
           <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-35" value="状态名称:等待网络响应" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
-          <mxGeometry x="150" y="224" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="341" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-36" value="状态名称:显示主屏" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
           <mxGeometry x="290" y="136" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-37" value="状态名称:要求密码" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
-          <mxGeometry x="300" y="220" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-38" value="状态名称:验证账户" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
           <mxGeometry x="483" y="126" width="100" height="40" as="geometry" />
