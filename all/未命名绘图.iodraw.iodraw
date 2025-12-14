@@ -194,7 +194,7 @@
           <mxGeometry x="750" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-123" value="等待网络响应" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
-          <mxGeometry x="550" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="465" y="78" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-124" value="主屏&#xa;do/显示主屏幕" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="140" height="60" as="geometry" />
@@ -224,7 +224,7 @@
           <mxGeometry x="500" y="550" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-133" value="退卡&#xa;do/退卡；&#xa;请求拿走卡" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="140" height="60" as="geometry" />
+          <mxGeometry x="210" y="410" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-134" value="结束&#xa;do/打印账单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="140" height="60" as="geometry" />
