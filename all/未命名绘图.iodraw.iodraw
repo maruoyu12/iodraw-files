@@ -543,10 +543,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-326" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-282">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="495" />
+              <mxPoint x="119" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="103" y="596" />
+              <mxPoint x="103" y="596" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-281" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="301" width="10" height="776" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-329" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-282" target="zhE98eEz4ox2AED2cr9r-281">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="553" />
+              <mxPoint x="115" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-330" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-282" target="zhE98eEz4ox2AED2cr9r-281">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-282" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="301" width="3" height="776" as="geometry" />
@@ -595,6 +619,12 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-325" value="显示主屏幕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-39" y="1002" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-328" value="请求验证账户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="64" y="464" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-331" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="78" y="519" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
