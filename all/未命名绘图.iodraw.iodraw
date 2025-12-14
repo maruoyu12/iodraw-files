@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1nON8vbqu-48xYjgHssh">
-    <mxGraphModel dx="1671" dy="1886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="2023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,6 +681,12 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-347" value="ATM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="37" y="275" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-348" value="总行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="274" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-349" value="分行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="253" y="272" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
