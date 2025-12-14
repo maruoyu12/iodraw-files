@@ -521,8 +521,16 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-320" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-11" y="970" />
-              <mxPoint x="-11" y="970" />
+              <mxPoint x="6" y="951" />
+              <mxPoint x="6" y="951" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-322" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-5" y="1040" />
+              <mxPoint x="-5" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -569,7 +577,7 @@
           <mxGeometry x="-45" y="877" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-321" value="印账单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="941" width="54" height="26" as="geometry" />
+          <mxGeometry x="-33" y="927" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
