@@ -428,8 +428,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-11" y="947" />
-              <mxPoint x="-11" y="947" />
+              <mxPoint x="13" y="928" />
+              <mxPoint x="13" y="928" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -518,6 +518,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-320" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-11" y="970" />
+              <mxPoint x="-11" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-281" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="301" width="10" height="776" as="geometry" />
         </mxCell>
@@ -540,7 +548,7 @@
           <mxGeometry x="-39" y="613" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-297" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-42" y="917" width="42" height="26" as="geometry" />
+          <mxGeometry x="-29" y="906" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-307" value="要求密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-29" y="412" width="66" height="26" as="geometry" />
@@ -558,7 +566,10 @@
           <mxGeometry x="-45" y="815" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-319" value="请求继续此事" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-56" y="879" width="90" height="26" as="geometry" />
+          <mxGeometry x="-45" y="877" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-321" value="印账单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="941" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
