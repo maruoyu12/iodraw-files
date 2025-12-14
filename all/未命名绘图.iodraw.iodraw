@@ -736,6 +736,10 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-364" value="否（放弃）" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-357" target="zhE98eEz4ox2AED2cr9r-356">
           <mxGeometry x="0.1672" y="7" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="236" />
+              <mxPoint x="404" y="236" />
+            </Array>
             <mxPoint x="-1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
