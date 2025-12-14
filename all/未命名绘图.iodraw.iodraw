@@ -449,8 +449,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-290" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-15" y="1000" />
-              <mxPoint x="-15" y="1000" />
+              <mxPoint x="22" y="1001" />
+              <mxPoint x="22" y="1001" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -529,8 +529,16 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-322" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-5" y="1040" />
-              <mxPoint x="-5" y="1040" />
+              <mxPoint x="13" y="979" />
+              <mxPoint x="13" y="979" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-324" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-281" target="zhE98eEz4ox2AED2cr9r-280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2" y="1029" />
+              <mxPoint x="2" y="1029" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -580,7 +588,10 @@
           <mxGeometry x="-33" y="927" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-323" value="请求拿走卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="1008" width="78" height="26" as="geometry" />
+          <mxGeometry x="-41" y="953" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-325" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-22" y="999" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
