@@ -113,7 +113,7 @@
           <mxGeometry x="100" y="50" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-32" value="" style="shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="850" y="50" width="20" height="20" as="geometry" />
+          <mxGeometry x="814" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-33" value="用例" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
           <mxGeometry x="397" y="70" width="80" height="40" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="483" y="126" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-39" value="状态名称:要求金额" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
-          <mxGeometry x="483" y="216" width="100" height="40" as="geometry" />
+          <mxGeometry x="483" y="214" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-40" value="状态名称:吐出现金" style="ellipse;whiteSpace=wrap;html=1" vertex="1" parent="1">
           <mxGeometry x="614" y="126" width="100" height="40" as="geometry" />
