@@ -206,7 +206,7 @@
           <mxGeometry x="290" y="312" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-127" value="do/验证账户" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
-          <mxGeometry x="632" y="155" width="120" height="40" as="geometry" />
+          <mxGeometry x="679" y="169" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-128" value="do/要求类型" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="120" height="40" as="geometry" />
