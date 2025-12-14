@@ -629,8 +629,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-332" value="请求处理事务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="64" y="568" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-333" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="83" y="664" width="40" height="26" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-333" value="事务成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="664" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
