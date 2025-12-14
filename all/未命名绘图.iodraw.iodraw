@@ -224,7 +224,7 @@
           <mxGeometry x="535" y="672" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-133" value="退卡&#xa;do/退卡；&#xa;请求拿走卡" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e8f4f8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="410" width="140" height="60" as="geometry" />
+          <mxGeometry x="281" y="409" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-134" value="结束&#xa;do/打印账单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;" vertex="1" parent="1">
           <mxGeometry x="219" y="523" width="140" height="60" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry x="346.3333511352539" y="76.33331298828125" width="72" height="36" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-167" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px; text-wrap: nowrap;&quot;&gt;拿走卡&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215.00335113525392" y="306.00331298828127" width="61" height="36" as="geometry" />
+          <mxGeometry x="208.00335113525392" y="300.00331298828127" width="61" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
