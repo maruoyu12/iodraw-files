@@ -651,6 +651,9 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-335" value="请求分行验证账户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="163" y="404" width="114" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-337" value="请求处理分行事务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="133" y="607" width="114" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
