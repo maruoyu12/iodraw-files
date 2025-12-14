@@ -701,7 +701,7 @@
           <mxGeometry x="137" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-354" value="比较并验证用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5" vertex="1" parent="1">
-          <mxGeometry x="150" y="550" width="140" height="60" as="geometry" />
+          <mxGeometry x="189" y="528" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-355" value="进入系统主界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#4caf50" vertex="1" parent="1">
           <mxGeometry x="350" y="550" width="120" height="60" as="geometry" />
@@ -713,7 +713,7 @@
           <mxGeometry x="300" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-358" value="验证通过？" style="diamond;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800" vertex="1" parent="1">
-          <mxGeometry x="300" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="224.32999999999998" y="710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-359" value="" style="shape=ellipse;fillColor=#000000;strokeColor=none;size=10" vertex="1" parent="1">
           <mxGeometry x="400" y="620" width="10" height="10" as="geometry" />
@@ -746,7 +746,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-369" value="否" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-358" target="zhE98eEz4ox2AED2cr9r-351">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="127" y="621" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-370" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-355" target="zhE98eEz4ox2AED2cr9r-359">
           <mxGeometry relative="1" as="geometry" />
