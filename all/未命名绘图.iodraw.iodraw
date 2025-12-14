@@ -668,8 +668,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-339" value="账户有效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="450" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-342" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="187" y="659" width="40" height="26" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-342" value="分行事务成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="162" y="659" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
