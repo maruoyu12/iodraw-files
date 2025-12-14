@@ -600,7 +600,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-283" target="zhE98eEz4ox2AED2cr9r-282">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="751" />
+              <mxPoint x="219" y="751" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-283" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="272" y="301" width="10" height="776" as="geometry" />
@@ -669,7 +674,10 @@
           <mxGeometry x="185" y="450" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-342" value="分行事务成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="162" y="659" width="90" height="26" as="geometry" />
+          <mxGeometry x="168" y="722" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-343" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="270" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
