@@ -436,8 +436,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-289" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-17" y="905" />
-              <mxPoint x="-17" y="905" />
+              <mxPoint x="10" y="875" />
+              <mxPoint x="10" y="875" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -547,7 +547,7 @@
           <mxGeometry x="-33" y="759" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-317" value="请求拿走现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-57" y="797" width="90" height="26" as="geometry" />
+          <mxGeometry x="-45" y="815" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
