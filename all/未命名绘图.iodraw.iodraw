@@ -546,6 +546,9 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-315" value="吐出现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-33" y="759" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-317" value="请求拿走现金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-57" y="797" width="90" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
