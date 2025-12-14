@@ -422,7 +422,7 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-294" value="输入类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zhE98eEz4ox2AED2cr9r-287">
           <mxGeometry x="-0.2002" y="11" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="12" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
@@ -443,7 +443,7 @@
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-296" value="拿走现金" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zhE98eEz4ox2AED2cr9r-289">
           <mxGeometry x="-0.2002" y="8" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-290" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
@@ -459,8 +459,11 @@
             <mxPoint x="6" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-280" target="zhE98eEz4ox2AED2cr9r-281">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-83" y="716" as="sourcePoint" />
+            <mxPoint x="56" y="716" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-280" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="-88" y="301" width="1" height="776" as="geometry" />
@@ -478,16 +481,16 @@
           <mxGeometry x="532.0018321010045" y="267.001962890625" width="702" height="663" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-292" value="插卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-72" y="367" width="42" height="26" as="geometry" />
+          <mxGeometry x="-45" y="373" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-293" value="输入密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-81" y="464" width="66" height="26" as="geometry" />
+          <mxGeometry x="-57" y="463" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-295" value="输入取款额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="663" width="78" height="26" as="geometry" />
+          <mxGeometry x="-69" y="659" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-297" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-72" y="789" width="42" height="26" as="geometry" />
+          <mxGeometry x="-49" y="794" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
