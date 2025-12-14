@@ -299,9 +299,6 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-150" value="输入金额" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-129" target="zhE98eEz4ox2AED2cr9r-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-151" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-129" target="zhE98eEz4ox2AED2cr9r-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-152" value="事务成功" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-130" target="zhE98eEz4ox2AED2cr9r-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
