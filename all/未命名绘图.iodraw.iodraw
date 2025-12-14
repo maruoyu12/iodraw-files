@@ -282,8 +282,8 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-145" value="无效账户" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-127" target="zhE98eEz4ox2AED2cr9r-137">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="779" y="231" />
-              <mxPoint x="466" y="231" />
+              <mxPoint x="779" y="309" />
+              <mxPoint x="483" y="309" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -308,7 +308,7 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-153" value="事务失败" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-130" target="zhE98eEz4ox2AED2cr9r-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-154" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-130" target="zhE98eEz4ox2AED2cr9r-136">
+        <mxCell id="zhE98eEz4ox2AED2cr9r-154" value="取消" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-129" target="zhE98eEz4ox2AED2cr9r-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-155" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-131" target="zhE98eEz4ox2AED2cr9r-136">
