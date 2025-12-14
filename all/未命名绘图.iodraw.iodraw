@@ -695,10 +695,10 @@
           <mxGeometry x="67" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-352" value="提交用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5" vertex="1" parent="1">
-          <mxGeometry x="148" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="197" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-353" value="查询数据库用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5" vertex="1" parent="1">
-          <mxGeometry x="137" y="460" width="140" height="60" as="geometry" />
+          <mxGeometry x="182.32999999999998" y="455" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-354" value="比较并验证用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5" vertex="1" parent="1">
           <mxGeometry x="189" y="528" width="140" height="60" as="geometry" />
@@ -710,10 +710,10 @@
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-357" value="确认输入？" style="diamond;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="307" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-358" value="验证通过？" style="diamond;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800" vertex="1" parent="1">
-          <mxGeometry x="224.32999999999998" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="86.99999999999997" y="667" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-359" value="" style="shape=ellipse;fillColor=#000000;strokeColor=none;size=10" vertex="1" parent="1">
           <mxGeometry x="400" y="620" width="10" height="10" as="geometry" />
