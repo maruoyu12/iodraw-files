@@ -707,7 +707,7 @@
           <mxGeometry x="345" y="683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-356" value="结束程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336" vertex="1" parent="1">
-          <mxGeometry x="322.33" y="348" width="120" height="60" as="geometry" />
+          <mxGeometry x="344.33" y="332" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-357" value="确认输入？" style="diamond;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#ff9800" vertex="1" parent="1">
           <mxGeometry x="342" y="141" width="80" height="80" as="geometry" />
@@ -725,13 +725,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-362" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-351" target="zhE98eEz4ox2AED2cr9r-357">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-363" value="是" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-357" target="zhE98eEz4ox2AED2cr9r-352">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-364" value="否（放弃）" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-357" target="zhE98eEz4ox2AED2cr9r-356">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.1672" y="7" relative="1" as="geometry">
+            <mxPoint x="-1" y="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-365" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-352" target="zhE98eEz4ox2AED2cr9r-353">
           <mxGeometry relative="1" as="geometry" />
