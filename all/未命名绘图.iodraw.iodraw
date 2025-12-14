@@ -579,6 +579,9 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-321" value="印账单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-33" y="927" width="54" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="zhE98eEz4ox2AED2cr9r-323" value="请求拿走卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-46" y="1008" width="78" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
