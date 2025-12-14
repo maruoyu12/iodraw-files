@@ -322,7 +322,7 @@
           <mxGeometry x="208.0033511352539" y="65.00331298828125" width="72" height="36" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-167" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px; text-wrap: nowrap;&quot;&gt;拿走卡&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="208.00335113525392" y="300.00331298828127" width="61" height="36" as="geometry" />
+          <mxGeometry x="208.00335113525392" y="298.00331298828127" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-169" target="zhE98eEz4ox2AED2cr9r-124">
           <mxGeometry relative="1" as="geometry" />
@@ -349,8 +349,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhE98eEz4ox2AED2cr9r-181" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="173" y="658" width="40" height="26" as="geometry" />
+        <mxCell id="zhE98eEz4ox2AED2cr9r-181" value="继续" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="174.33" y="672" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
