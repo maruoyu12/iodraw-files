@@ -371,7 +371,7 @@
           <mxGeometry x="230" y="219" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-207" value="卡纸状态&#xa;do/发出卡纸警告" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#f44336;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="370" width="140" height="60" as="geometry" />
+          <mxGeometry x="424" y="306" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-208" value="接到复印命令" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-204" target="zhE98eEz4ox2AED2cr9r-205">
           <mxGeometry relative="1" as="geometry" />
@@ -380,7 +380,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-210" value="复印时无纸张" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-206">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="9" />
+              <mxPoint x="389" y="249" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zhE98eEz4ox2AED2cr9r-211" value="复印时卡纸故障" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;strokeWidth=1;align=center;" edge="1" parent="1" source="zhE98eEz4ox2AED2cr9r-205" target="zhE98eEz4ox2AED2cr9r-207">
           <mxGeometry relative="1" as="geometry" />
