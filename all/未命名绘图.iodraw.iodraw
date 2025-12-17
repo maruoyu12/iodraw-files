@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1nON8vbqu-48xYjgHssh">
-    <mxGraphModel dx="31861" dy="23623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="35061" dy="26023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,7 +234,7 @@
           <mxGeometry x="-4" y="-167" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="g0EAt-2gTQlv--dVI2Na-180" value="&lt;b&gt;宠物信息 (Pet)&lt;/b&gt;&lt;hr&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;宠物ID (PK)&lt;/u&gt;&lt;br&gt;宠物品种&lt;br&gt;年龄&lt;br&gt;性别&lt;/font&gt;" style="shape=swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;startSize=26;fillColor=#f0f8fb;strokeColor=#2c7fb8;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-49" width="160" height="110" as="geometry" />
+          <mxGeometry x="325" y="-382" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g0EAt-2gTQlv--dVI2Na-181" value="拥有&lt;br&gt;1:N" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;align=center;verticalAlign=middle;strokeColor=#3c9d78;fillColor=#d4ede3;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="50" height="40" as="geometry" />
@@ -249,6 +249,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="90" as="sourcePoint" />
             <mxPoint x="300" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="274" y="-327" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="g0EAt-2gTQlv--dVI2Na-184" value="&lt;b&gt;动态 (Post)&lt;/b&gt;&lt;hr&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;动态ID (PK)&lt;/u&gt;&lt;br&gt;内容文字&lt;br&gt;媒体URL&lt;br&gt;隐私权限&lt;/font&gt;" style="shape=swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;startSize=26;fillColor=#e8f4f8;strokeColor=#2c7fb8;rounded=0;" vertex="1" parent="1">
