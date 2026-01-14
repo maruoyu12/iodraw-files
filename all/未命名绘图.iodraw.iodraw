@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1nON8vbqu-48xYjgHssh">
-    <mxGraphModel dx="5061" dy="3623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8087" dy="5874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -422,24 +422,6 @@
             <mxPoint x="180" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-1" value="开始 freeDirectory()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" x="100" y="30" width="120" height="40" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-2" value="传入的dir 是否为空？" style="rhombus=1;whiteSpace=wrap;html=1;" vertex="1" x="100" y="100" width="140" height="60" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-3" value="初始化循环变量 i = 0" style="whiteSpace=wrap;html=1;" vertex="1" x="100" y="190" width="140" height="40" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-4" value="i &lt; dir-&gt;subDirCount？" style="rhombus=1;whiteSpace=wrap;html=1;" vertex="1" x="100" y="260" width="160" height="60" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-5" value="递归调用 freeDirectory(dir-&gt;subDirs[i])" style="whiteSpace=wrap;html=1;" vertex="1" x="280" y="260" width="200" height="40" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-6" value="i = i + 1" style="whiteSpace=wrap;html=1;" vertex="1" x="100" y="340" width="100" height="40" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-7" value="释放当前目录内存 free(dir)" style="whiteSpace=wrap;html=1;" vertex="1" x="100" y="410" width="160" height="40" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" x="100" y="480" width="120" height="40" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-9" value="结束(递归终止)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;" vertex="1" x="280" y="120" width="140" height="40" parent="1" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-10" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-1" target="SteF8Fsy5TxHbRplYCgp-2" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-11" value="是" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;entryX=0.5;entryY=0;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-2" target="SteF8Fsy5TxHbRplYCgp-9" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-12" value="否" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-2" target="SteF8Fsy5TxHbRplYCgp-3" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-13" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-3" target="SteF8Fsy5TxHbRplYCgp-4" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-14" value="是" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;entryX=0.5;entryY=0.5;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-4" target="SteF8Fsy5TxHbRplYCgp-5" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-15" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-5" target="SteF8Fsy5TxHbRplYCgp-6" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-16" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-6" target="SteF8Fsy5TxHbRplYCgp-4" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-17" value="否" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-4" target="SteF8Fsy5TxHbRplYCgp-7" />
-        <mxCell id="SteF8Fsy5TxHbRplYCgp-18" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="SteF8Fsy5TxHbRplYCgp-7" target="SteF8Fsy5TxHbRplYCgp-8" />
       </root>
     </mxGraphModel>
   </diagram>
