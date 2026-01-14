@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1nON8vbqu-48xYjgHssh">
-    <mxGraphModel dx="5061" dy="3623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6661" dy="4823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,6 +424,39 @@
         </mxCell>
         <mxCell id="GM2zjl39VKr_vvCAAygS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3168" y="-2243" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-2" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-3" value="初始化磁盘文件\n将磁盘全部置空" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="275" y="160" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-4" value="初始化保留区中的位示图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-5" value="初始化目录的文件标识符\n文件长度初始为零" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-6" value="更改位示图状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="325" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-7" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="355" y="680" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-2" target="GM2zjl39VKr_vvCAAygS-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-3" target="GM2zjl39VKr_vvCAAygS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-4" target="GM2zjl39VKr_vvCAAygS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-5" target="GM2zjl39VKr_vvCAAygS-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2zjl39VKr_vvCAAygS-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-6" target="GM2zjl39VKr_vvCAAygS-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
