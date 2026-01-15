@@ -190,39 +190,6 @@
         <mxCell id="zhE98eEz4ox2AED2cr9r-121" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-13" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-14" value="初始化磁盘文件\n将磁盘全部置空" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="285" y="170" width="250" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-15" value="初始化保留区中的位示图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-16" value="初始化目录的文件标识符\n文件长度初始为零" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="420" width="300" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-17" value="更改位示图状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="335" y="570" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-18" value="结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="365" y="690" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-13" target="GM2zjl39VKr_vvCAAygS-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-14" target="GM2zjl39VKr_vvCAAygS-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-15" target="GM2zjl39VKr_vvCAAygS-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-16" target="GM2zjl39VKr_vvCAAygS-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2zjl39VKr_vvCAAygS-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM2zjl39VKr_vvCAAygS-17" target="GM2zjl39VKr_vvCAAygS-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
